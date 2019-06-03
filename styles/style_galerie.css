@@ -2,6 +2,7 @@ body{
     margin: 0;
 	font-family: 'Raleway';
     font-size: 14px;
+    background: rgb(22, 22, 22);
     background-image: url(../img/fondetoile.png);
 
 }

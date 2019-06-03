@@ -7,10 +7,11 @@ header{
 
 body{
 	padding: 0px;
-	margin: 0px;
+    margin: 0px;
+    background: rgb(22, 22, 22);
 	font-family: 'Raleway';
 	font-size: 14px;
-	background-image: url(../img/fondetoile.png);
+    background-image: url(../img/fondetoile.png);
 }
 
 video{
